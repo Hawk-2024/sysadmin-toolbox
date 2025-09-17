@@ -6,4 +6,4 @@ This repo demonstrates:
 - Containerization (Docker)
 - CI/CD integration (Jenkins-ready)
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/35cc018f-69ee-475e-b2d6-d0efb76593a2" />
+<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/35cc018f-69ee-475e-b2d6-d0efb76593a2" />
